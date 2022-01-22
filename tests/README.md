@@ -1,0 +1,3 @@
+# Disclaimer
+None of these files are guaranteed to work. All of this is just me trying to come up with something without any sense of what I'm actually doing.
+You've been warned...
