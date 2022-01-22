@@ -1,0 +1,2 @@
+# Welcome
+I've decided to learn something about deep learning and neural networks some time ago, and this repository serves as library/playground of mine. Feel free to copy and/or edit the code. I'm following excellent series ["Neural Networks from Scratch" from sentdex](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3), so most of the code in this repo will match his.
