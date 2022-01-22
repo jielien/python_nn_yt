@@ -1,7 +1,8 @@
 '''
-    Single layer with 3 neurons example
+    author: jielien
+    date: 19.01.2022
+    description: Single layer with 3 neurons
 '''
-
 import numpy as np
 
 inputs = [1.2, 5.1, 2.1] # input for each neuron

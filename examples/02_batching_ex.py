@@ -1,5 +1,7 @@
 '''
-    Single layer with 3 neurons example
+    author: jielien
+    date: 23.01.2022
+    description: Batched input
 '''
 
 import numpy as np
